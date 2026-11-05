@@ -99,3 +99,10 @@ Desktop.ini
 *.tmp
 *.temp
 .eslintcache
+
+# ==========================================
+# Internal Notes & Idea Docs
+# ==========================================
+IDEA.md
+*.draft.md
+
