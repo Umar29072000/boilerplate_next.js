@@ -99,6 +99,7 @@ Desktop.ini
 *.tmp
 *.temp
 .eslintcache
+*.gitkeep
 
 # ==========================================
 # Internal Notes & Idea Docs
